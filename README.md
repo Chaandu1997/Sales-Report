@@ -6,6 +6,17 @@ The dashboard enables dynamic filtering and helps users derive key business insi
 
 ---
 
+## 📁 Project Files
+
+All files are included in a ZIP file
+named: 'Sample-Superstore-Dashboard+Pivot.zip'
+
+### Inside the ZIP:
+
+'Dataset of the Report.csv' - Raw dataset for the dashbord
+'Sample-Superstore-Dashboard+pivot.zip' - Interactive Excel dashboard with slicers, charts and pivot tables.
+
+
 ## 📁 Project Objective
 
 The goal of this project is to:
