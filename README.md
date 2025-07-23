@@ -1,4 +1,5 @@
 Excel Sales Report – Point-Wise Explanation
+
 🔹 1. Category Filter
 Provides slicer buttons to filter sales data by:
 
