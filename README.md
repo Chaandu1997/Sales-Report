@@ -1,91 +1,74 @@
-Excel Sales Report – Point-Wise Explanation
+# 📊 Excel Sales Report Dashboard
 
-🔹 1. Category Filter
-Provides slicer buttons to filter sales data by:
+This project is a **Sales Report Dashboard** created using **Microsoft Excel**, designed to analyze and visualize sales data across multiple dimensions like category, shipping mode, segment, sub-category, and time.
 
-Furniture
+The dashboard enables dynamic filtering and helps users derive key business insights from historical sales data.
 
-Office Supplies
+---
 
-Technology
+## 📁 Project Objective
 
-Helps focus analysis on specific product lines.
+The goal of this project is to:
+- Analyze raw sales data and convert it into a meaningful dashboard.
+- Identify high-performing products, customer segments, and shipping trends.
+- Provide actionable insights for strategic business decisions.
+- Create a clean, interactive Excel dashboard suitable for presentations and reporting.
 
-🔹 2. Ship Mode Filter
-Allows filtering based on delivery methods:
+---
 
-First Class
+## 📈 Dashboard Features
 
-Same Day
+- **Interactive Filters**:
+  - By **Category** (Furniture, Office Supplies, Technology)
+  - By **Ship Mode** (First Class, Second Class, Same Day, Standard Class)
 
-Second Class
+- **Visualizations**:
+  - Pie Chart: Segment by Sales
+  - Bar Chart: Sales by Segment and Ship Mode
+  - Horizontal Bar: Sales by Sub-Category
+  - Line Chart: Time Series Sales Trend
 
-Standard Class
+---
 
-Useful to analyze how shipping speed affects sales.
+## 🔍 Insights from Data Analysis
 
-🔹 3. Segment by Sales (Pie Chart)
-Visualizes percentage contribution of:
+### 1. **Customer Segments**
+- **New Consumer** segment generates **50%** of total sales.
+- Action: Focus on retention and targeted marketing for New Consumers.
 
-Corporate
+### 2. **Shipping Trends**
+- **Standard Class** is the most preferred mode, especially by New Consumers.
+- Action: Streamline standard shipping to reduce cost and improve service.
 
-Home Office
+### 3. **Top-Selling Sub-Categories**
+- **Chairs**, **Phones**, and **Binders** lead in sales volume.
+- Action: Invest more in stock and promotion of these high-margin items.
 
-New Consumer
+### 4. **Low-Selling Sub-Categories**
+- **Fasteners**, **Labels**, and **Envelopes** perform poorly.
+- Action: Consider product bundling, discounts, or removal from inventory.
 
-Shows:
+### 5. **Seasonal Trends**
+- Sales peak around **August** and **Q1 each year**.
+- Action: Boost marketing and inventory planning around peak months.
 
-New Consumer: 50% of total sales
+### 6. **Category-Wise Growth**
+- **Technology** and **Office Supplies** show steady growth.
+- Action: Explore cross-selling strategies between related products.
 
-Corporate: 32%
+---
 
-Home Office: 18%
+## 🛠️ Tools Used
 
-🔹 4. Sales by Segment and Ship Mode (Bar Chart)
-Breaks down segment-wise sales across all ship modes.
+- **Microsoft Excel**
+  - Pivot Tables
+  - Slicers
+  - Charts (Pie, Bar, Line)
+  - Data Cleaning & Formatting
 
-Helps understand preferences like:
+---
 
-New Consumer prefers Standard Class shipping.
+## 📬 Contact
 
-Corporate and Home Office segments have more variety.
-
-🔹 5. Sales by Sub-Category (Horizontal Bar Chart)
-Displays sales values for 17+ sub-categories.
-
-Top-selling sub-categories:
-
-Chairs
-
-Phones
-
-Binders
-
-Low-performing ones:
-
-Labels
-
-Envelopes
-
-Fasteners
-
-🔹 6. Time Series Analysis (Line Chart)
-Shows monthly sales trend from 2014 to 2017.
-
-Helps identify:
-
-Seasonal trends
-
-Peak sales months (e.g., Aug 2014, early 2016)
-
-Overall growth in sales
-
-🔹 7. Dashboard Highlights
-Clean and structured layout
-
-Multiple views in a single sheet
-
-Easy to interact with filters and slicers
-
-Made using native Excel charts and formulas (no macros)
-
+Created by [Chandrakala](https://www.linkedin.com/in/chandrakala-p-686072251/)  
+Feel free to connect on LinkedIn for any questions.
